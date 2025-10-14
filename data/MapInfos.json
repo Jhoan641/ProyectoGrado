@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Tienda Bogotazó","order":1,"parentId":0,"scrollX":728,"scrollY":451.55555555555554}
+{"id":1,"expanded":true,"name":"Tienda Independencia","order":1,"parentId":0,"scrollX":476,"scrollY":312.44444444444446},
+{"id":2,"expanded":false,"name":"Tienda bogotazo","order":2,"parentId":0,"scrollX":476,"scrollY":311.55555555555554},
+{"id":3,"expanded":false,"name":"Tienda Moderna","order":3,"parentId":0,"scrollX":543.5,"scrollY":350.5}
 ]

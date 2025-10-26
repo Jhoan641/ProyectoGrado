@@ -6,4 +6,3 @@ null,
 {"id":4,"expanded":false,"name":"Tienda Moderna","order":6,"parentId":6,"scrollX":819,"scrollY":461},
 {"id":5,"expanded":true,"name":"Segundo nivel","order":3,"parentId":0,"scrollX":811,"scrollY":461},
 {"id":6,"expanded":true,"name":"Tercer nivel","order":5,"parentId":0,"scrollX":811,"scrollY":961}
-]
